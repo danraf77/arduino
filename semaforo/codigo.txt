@@ -6,7 +6,7 @@ const int PIN_VERDE    = 11;
 
 // Tiempos de cada fase en milisegundos (1000 ms = 1 segundo).
 const int TIEMPO_VERDE    = 5000;  // 5 s en verde
-const int TIEMPO_AMARILLO = 1000;  // 1 s en amarillo
+const int TIEMPO_AMARILLO = 2000;  // 2 s en amarillo
 const int TIEMPO_ROJO     = 5000;  // 5 s en rojo
 
 void setup() {
